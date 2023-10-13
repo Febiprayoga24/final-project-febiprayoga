@@ -1,6 +1,16 @@
-/*maksimal 10 karakter*/
+/* maks 10 selector */
+body{
+    margin: 0;
+}
+
 #navbar {
-    width: 100;
-    background-color: black;
+    width: 100%;
+    background-color:rgb(161, 17, 17);
     color: white;
+    padding: 16px;
+}
+
+#navbar-title {
+    font-size: 24px;
+    font-weight: bold;
 }
